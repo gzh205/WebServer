@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table name="sinfo" connection="student" ip="110.41.154.214" port="3306" username="root" password="147852369" driver="mysql">
+	<col name="sno" primary_key="true" />
+	<col name="sname" />
+	<col name="birth"/>
+	<col name="info" />
+</table>

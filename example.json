@@ -1,0 +1,14 @@
+{
+  "jsonrpc": "2.0",
+  "method": "list",
+  "params": {
+    "userAuth": { "userId": "hello1234" },
+    "device": { "deviceId": "abc" },
+    "action": {
+      "property": "switch",
+      "name": "on"
+    }
+  },
+  "arrays": ["aaa","bbb","ccc"],
+  "id": "1"
+}

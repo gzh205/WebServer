@@ -1,0 +1,25 @@
+<settings>
+	<server>
+		<rootpath>
+			D:\site\www
+		</rootpath>
+		<index>
+			index.html
+		</index>
+		<appname>
+			student_management_system
+		</appname>
+		<session_store_time>
+			1200
+		</session_store_time>
+		<models>
+			D:\PyProjects\学生信息管理系统\models
+		</models>
+		<threadnum>
+			16
+		</threadnum>
+		<port>
+			8088
+		</port>
+	</server>
+</settings>
